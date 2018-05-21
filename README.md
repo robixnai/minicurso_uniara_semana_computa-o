@@ -18,6 +18,7 @@ Projeto para o minicurso Desenvolvimento Mobile com Android (UNIARA)
 - Themes
   
 <b>Referências:</b>
+  - https://docs.google.com/presentation/d/1nZ7afv3jQOefMRniYUk_swe2KRwkIy48-ttXN0GXQII/edit?usp=sharing
   - https://developer.android.com/index.html
   - https://developer.android.com/training/material/theme.html#ColorPalette
   - https://material.io/guidelines/style/typography.html#typography-typeface
